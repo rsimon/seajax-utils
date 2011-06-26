@@ -40,4 +40,5 @@ To set drawing attributes, animation behavior, event handlers, etc. you can get 
 ## Todos
 * Although polygon coordinate transformation seems to work correctly, there's a scaling factor of 2 required which I can't explain (may be because of the way zooming factors are defined in Seajax. See comment in source code of Polygon.js) -> investigate this!
 * Currently, only Marker, Ellipse and Polygon are implemented. All else is yet to come...
+* Need to add an online sample for the TMS tile source
 * Prepare a minified version using the [Closure Compiler] (http://code.google.com/closure/compiler/)
