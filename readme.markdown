@@ -2,9 +2,9 @@
 
 A utility library for the [Seadragon AJAX viewer] (http://expression.microsoft.com/en-us/gg413362.aspx). no.5 Seajax Utils act as a bridge between Seadragon AJAX and the [Raphael] (http://raphaeljs.com) JavaScript vector drawing & animation library, so that  Raphael drawing elements can be used as overlays on Deep Zoom images. In addition, no.5 Seajax Utils provide a number of extras, such as additional tile source implementations. 
 
-An online demo of the Raphael integration can be found [here] (http://maps.no5.at/seajax-utils-demo/example.html).
+An online demo of Raphael integration can be found [here] (http://maps.no5.at/seajax-utils-demo/example.html).
 
-An onlein demo of the OpenStreetMap tile source can be found [here] (http://maps.no5.at/seajax-utils-demo/example-osm.html).
+An online demo of the OpenStreetMap tile source can be found [here] (http://maps.no5.at/seajax-utils-demo/example-osm.html).
 
 ## Getting Started
 
