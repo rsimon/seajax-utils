@@ -10,7 +10,7 @@ scheme ([as supported by OpenLayers] (http://openlayers.org/dev/examples/tms.htm
 
 ## Getting Started - Adding Raphael Overlays
 
-The file _examples/example-raphael.html_ illustrates how you can add Raphael drawing elements as overlays to a Deep Zoom image hosted on [zoom.it] (http://zoom.it/WwI0). The key part of the code is below. Note that the coordinate system for no.5 Seajax Utils is the original image's pixel coordinates! 
+The file _example-raphael.html_ illustrates how you can add Raphael drawing elements as overlays to a Deep Zoom image hosted on [zoom.it] (http://zoom.it/WwI0). The key part of the code is below. Note that the coordinate system for no.5 Seajax Utils is the original image's pixel coordinates! 
 
      function addOverlays() {
         var marker = new No5.Seajax.Shapes.Marker("pushpin-icon.png");
@@ -34,7 +34,7 @@ To set drawing attributes, animation behavior, event handlers, etc. you can get 
 
 ## Getting Started - Tile Sources
 
-The files _examples/example-osm.html_ and _examples/example-tms.html_ show the use of seajax-utils' additional tile
+The files _example-osm.html_ and _examples/example-tms.html_ show the use of seajax-utils' additional tile
 sources. A code sample is below.
 
      viewer = new Seadragon.Viewer("viewer");
