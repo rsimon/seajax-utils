@@ -40,6 +40,11 @@ sources. A code sample is below.
      viewer = new Seadragon.Viewer("viewer");
      viewer.openTileSource(new No5.Seajax.Tilesource.OSM());
 
+## License
+
+no.5 Seajax Utils are licensed under the MIT License. See the included file 'MIT-LICENSE.txt'
+for details.
+
 ## Todos
 * Although polygon coordinate transformation seems to work correctly, there's a scaling factor of 2 required which I can't explain (may be because of the way zooming factors are defined in Seajax. See comment in source code of Polygon.js) -> investigate this!
 * Currently, only Marker, Ellipse and Polygon are implemented. All else is yet to come...
